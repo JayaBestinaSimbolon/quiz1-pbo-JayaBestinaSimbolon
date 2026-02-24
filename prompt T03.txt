@@ -16,4 +16,4 @@ program ini berisi pengaduan mahasiswa tentang baju
 rusak, dan hilang dan program ini dapat menetima
 inputan nama,angkatan dan nama asrama dan program ini
 juga dapat merespon untuk setiap laopran dari mahasiswa
-buat dalam bahasa java
+buat dalam bahasa javaa
